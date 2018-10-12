@@ -8,18 +8,5 @@ High-performance computing
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+###
 sh install_netcdf4.sh
